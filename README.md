@@ -10,6 +10,13 @@ Engineering leader with extensive experience in **AI/ML**, **cloud-native platfo
 My hands-on interests include **LLMs, RAG architectures, MLOps, Quantum ML, microservices, distributed systems, and developer platforms**.
 
 ---
+### Certifications
+- **Quantum Computing & Machine Learning — IIT Delhi**
+- **AWS Certified Machine Learning – Specialty**
+- **Microsoft Azure Fundamentals**
+- **PMP (Project Management Professional)**
+- **Secure SDLC & DevSecOps Certifications**
+
 
 ### Technical Areas of Focus
 
