@@ -39,7 +39,6 @@ My hands-on interests include **LLMs, RAG architectures, MLOps, Quantum ML, micr
 - Quantum circuit development (Qiskit)  
 - QAOA for optimization problems  
 - Quantum-enhanced anomaly detection (QSVM)  
-- Quantum neural networks (QNNs)  
 - Encoding classical insurance/financial data into quantum states  
 - Hybrid QML models for classification & pattern detection  
 - Applying quantum approaches to risk modeling and complex optimization challenges
