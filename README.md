@@ -17,6 +17,7 @@ My hands-on interests include **LLMs, RAG architectures, MLOps, Quantum ML, micr
 - **PMP (Project Management Professional)**
 - **Secure SDLC & DevSecOps Certifications**
 
+---
 
 ### Technical Areas of Focus
 
